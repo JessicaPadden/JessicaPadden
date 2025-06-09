@@ -1,0 +1,12 @@
+h1{
+    color:red ;
+    font-family: 'Times New Roman';
+}
+h2{
+    background-color: white;
+    font-family: Arial;
+   }
+
+a:link{ 
+    color: gray 
+}
